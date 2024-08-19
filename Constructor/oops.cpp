@@ -18,9 +18,6 @@ this->prop is same as *(this).prop
 
 • Copy Constructor is a Special Constructor (default) used to copy properties of one object into another.
 
-• Shallow & Deep Copy
-A shallow copy of an object copies all of the member values from one object to another.
-A deep copy, on the other hand, not only copies the member values but also makes copies of any dynamically allocated memory ( e.g.variable declared with "new" keyword) that the members point to.
 
 */
 
