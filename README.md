@@ -1,2 +1,2 @@
 #OOPs with c++
-I created this repo to revisit and revise ooops concepts.
+I created this repo to revisit and revise object oriented programming concepts.
